@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-magic-items
+title: Magic Items
+is_entry_point: true
+---
+
 Magic Items
 ===========
 

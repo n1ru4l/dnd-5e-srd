@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-mechanics
+title: Mechanics
+is_entry_point: true
+---
+
 Using Ability Scores
 ====================
 

@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-running
+title: Running
+is_entry_point: true
+---
+
 Traps
 =====
 

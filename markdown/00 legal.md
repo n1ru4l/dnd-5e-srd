@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-legal
+title: D&D 5e SRD Legal
+is_entry_point: true
+---
+
 Legal Information
 =================
 

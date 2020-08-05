@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-nonplayer-characters
+title: Nonplayer Characters
+is_entry_point: true
+---
+
 Appendix MM-B: Nonplayer Characters
 ====================
 

@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-spellcasting
+title: Spellcasting
+is_entry_point: true
+---
+
 Spellcasting
 ============
 

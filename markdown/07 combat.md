@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-combat
+title: Combat
+is_entry_point: true
+---
+
 Combat
 ======
 

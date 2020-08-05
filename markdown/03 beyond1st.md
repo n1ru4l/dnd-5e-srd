@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-beyond-1st
+title: Beyond 1st Level
+is_entry_point: true
+---
+
 Beyond 1st Level
 ================
 

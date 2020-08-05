@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-gods
+title: Gods
+is_entry_point: true
+---
+
 Appendix PH-B: Fantasy-Historical Pantheons
 ========================================
 

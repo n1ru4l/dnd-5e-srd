@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-planes
+title: Planes
+is_entry_point: true
+---
+
 Appendix PH-C: The Planes of Existence
 ===================================
 

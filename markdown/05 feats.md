@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-feats
+title: Feats
+is_entry_point: true
+---
+
 Feats
 =====
 

@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-monsters
+title: Monsters
+is_entry_point: true
+---
+
 Monsters
 ========
 

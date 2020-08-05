@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-equipment
+title: Equipment
+is_entry_point: true
+---
+
 Equipment
 =========
 

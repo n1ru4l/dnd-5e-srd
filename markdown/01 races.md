@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-races
+title: Races
+is_entry_point: true
+---
+
 Races
 =====
 

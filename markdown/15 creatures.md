@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-creatures
+title: Creatures
+is_entry_point: true
+---
+
 Appendix MM-A: Miscellaneous Creatures
 ===================================
 

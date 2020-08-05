@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-classes
+title: Classes
+is_entry_point: true
+---
+
 Barbarian
 =========
 

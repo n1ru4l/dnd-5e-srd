@@ -1,3 +1,9 @@
+---
+id: dnd-5e-srd-conditions
+title: Conditions
+is_entry_point: true
+---
+
 Appendix PH-A: Conditions
 ======================
 
